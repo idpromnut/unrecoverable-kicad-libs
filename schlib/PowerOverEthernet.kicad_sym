@@ -53,7 +53,7 @@
       )
       (pin power_in line (at 0 -7.62 90) (length 2.54)
         (name "Vss" (effects (font (size 1.27 1.27))))
-        (number "Pad" (effects (font (size 1.27 1.27))))
+        (number "9" (effects (font (size 1.27 1.27))))
       )
     )
   )
